@@ -3,7 +3,6 @@
 # da mesma forma
 # O texto pode sr colado diretamente como um string no código
 
-
 texto = """
 
 O texto possui 6 vogais A
